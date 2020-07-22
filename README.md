@@ -3,6 +3,8 @@
 <!--
 **diegomarinho/diegomarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hi, I'm an expert in high availability, real-time Microservices. I currently provide consulting services as Solution Architect and lead technically agile teams. I am interested in teaching and developing Distributed Systems in Microservices, Cloud Computer and Distributed Architecture.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
